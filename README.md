@@ -1,5 +1,8 @@
 # Treatment_Database
 
+## Citation
+DOE-NCI-MOSSAIC. (2025). DOE-NCI-MOSSAIC/nccr-treatment-database: NCCR Treatment Database September 2025 Release (treatment-doi-v1). Zenodo. https://doi.org/10.5281/zenodo.17235256
+
 ## Data Sources
 1 -- HEMOC
 
